@@ -71,8 +71,7 @@ NumberGuessingGame/
 
 ## 👨‍💻 Author
 
-**Gengavarajan V**
-
+Gengavarajan V
 B.Tech Information Technology  
 SRM Institute of Science and Technology (SRMIST)
 
