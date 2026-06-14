@@ -39,7 +39,7 @@ NumberGuessingGame/
 1. Clone the repository:
 
    ```bash
-   git clone <repository-link>
+   git clone <https://github.com/Gengavarajan/Task-1-Gengavarajan.git>
    ```
 
 2. Open the project in IntelliJ IDEA, Eclipse, or any Java IDE.
